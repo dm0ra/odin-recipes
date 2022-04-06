@@ -1,0 +1,27 @@
+.button-fp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightcoral;
+    font-size: 24px
+}
+
+.image{
+    height: auto;
+    width: 500px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.step{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+
+.ingredient{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: green;
+}
